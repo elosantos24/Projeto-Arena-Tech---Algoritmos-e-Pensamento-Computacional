@@ -16,3 +16,5 @@ Realizamos o teste comparativo alterando apenas a **duração do evento**, mante
 
 # Conclusão da Análise:
 Aumentar a duração do evento em 200% (de 2h para 6h) gera um impacto financeiro de apenas R$ 48,00 a mais no custo total (aumento de ~2,6%), pois os custos com alimentação, aluguel de PCs e infraestrutura fixa representam a maior parte do orçamento geral.
+
+![Texto Alternativo](img.jpg)
