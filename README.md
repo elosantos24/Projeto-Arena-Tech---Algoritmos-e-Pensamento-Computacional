@@ -43,10 +43,10 @@ Entradas utilizadas no teste:
 
 # OUTROS TESTES
 
-![Resultado](img2.jpeg)
+![Resultado](img2.png)
 
 
-![Resultado](img3.jpeg)
+![Resultado](img3.png)
 
 
 ## Desafios Extras - Comparação de Cenários (Duração do Evento)
