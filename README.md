@@ -1,7 +1,7 @@
 # Projeto Arena Tech - Algoritmos e Pensamento Computacional
 
 ## Integrantes
-* Eloysa R. Santos - @elosantos24
+* [Eloysa R. Santos](https://github.com/elosantos24)
 * nom - @
 * nome - @
 * nom - @
