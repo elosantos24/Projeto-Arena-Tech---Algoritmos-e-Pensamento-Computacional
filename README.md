@@ -41,6 +41,14 @@ Entradas utilizadas no teste:
 ![Resultado](resultado.jpeg)
 
 
+# OUTROS TESTES
+
+![Resultado](img2.jpeg)
+
+
+![Resultado](img3.jpeg)
+
+
 ## Desafios Extras - Comparação de Cenários (Duração do Evento)
 
 Realizamos o teste comparativo alterando apenas a **duração do evento**, mantendo a base do teste obrigatório (25 participantes, 20 PCs de 600W, R$ 1,00/kWh, R$ 25,00 kit alimentação, R$ 200,00 outros custos e aluguel de R$ 50,00/PC):
