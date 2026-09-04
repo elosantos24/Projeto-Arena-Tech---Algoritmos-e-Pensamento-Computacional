@@ -38,6 +38,9 @@ Entradas utilizadas no teste:
    * **Conclusão:** Triplicar a duração do evento aumenta o custo total em apenas 5,6% (R$ 48,00), pois os custos fixos (alimentação e outros) correspondem à maior fatia do orçamento.
 
 
+![Resultado](resultado.jpg)
+
+
 ## Desafios Extras - Comparação de Cenários (Duração do Evento)
 
 Realizamos o teste comparativo alterando apenas a **duração do evento**, mantendo a base do teste obrigatório (25 participantes, 20 PCs de 600W, R$ 1,00/kWh, R$ 25,00 kit alimentação, R$ 200,00 outros custos e aluguel de R$ 50,00/PC):
@@ -57,4 +60,4 @@ Realizamos o teste comparativo alterando apenas a **duração do evento**, mante
 # Conclusão da Análise:
 Aumentar a duração do evento em 200% (de 2h para 6h) gera um impacto financeiro de apenas R$ 48,00 a mais no custo total (aumento de ~2,6%), pois os custos com alimentação, aluguel de PCs e infraestrutura fixa representam a maior parte do orçamento geral.
 
-![Texto Alternativo](img.jpg)
+![O que fizemos ... ](img.jpg)
