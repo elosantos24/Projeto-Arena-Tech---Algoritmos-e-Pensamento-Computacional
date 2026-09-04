@@ -38,7 +38,7 @@ Entradas utilizadas no teste:
    * **Conclusão:** Triplicar a duração do evento aumenta o custo total em apenas 5,6% (R$ 48,00), pois os custos fixos (alimentação e outros) correspondem à maior fatia do orçamento.
 
 
-![Resultado](resultado.jpg)
+![Resultado](resultado.jpeg)
 
 
 ## Desafios Extras - Comparação de Cenários (Duração do Evento)
