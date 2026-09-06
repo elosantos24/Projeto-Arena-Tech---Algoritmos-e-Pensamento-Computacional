@@ -1,11 +1,11 @@
 # Projeto Arena Tech - Algoritmos e Pensamento Computacional
 
 ## Integrantes
-* [Eloysa R. Santos](https://github.com/elosantos24)
-* nom - @
-* nome - @
-* nom - @
-* nome - @
+* [Eloysa Raquel dos Santos](https://github.com/elosantos24) - 47700971
+* [Rafael dos Santos Ferreira Lima ](https://github.com/rafael-santos-tech) - 47596295
+* [Cauã Correia de Andrade](https://github.com/cauaandrade2000) - 
+* [Nathan Umberlino do Carmo ](https://github.com/) - 
+
 
 ---
 
