@@ -4,7 +4,7 @@
 * [Eloysa Raquel dos Santos](https://github.com/elosantos24) - 47700971
 * [Rafael dos Santos Ferreira Lima ](https://github.com/rafael-santos-tech) - 47596295
 * [Cauã Correia de Andrade](https://github.com/cauaandrade2000) - 47766875
-* [Nathan Umberlino do Carmo](https://github.com/Nathan1234umbelino-beep) - 47719567
+* [Nathan Umbelino do Carmo](https://github.com/Nathan1234umbelino-beep) - 47719567
 
 ---
 
